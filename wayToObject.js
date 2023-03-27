@@ -8,7 +8,7 @@ const teacher =
 
     },
 
-    improveExam : function(subject)
+    improveExam: function(subject)
     {
         this.position();
         return ` ${this.name} is takeing improvement exam on ${subject}`
